@@ -1,0 +1,30 @@
+<chunk>
+    <monster>
+        <id>2</id>
+        <x>80.0</x>
+        <y>0.0</y>
+        <speed>0.7</speed>
+        <pattern>3</pattern>
+    </monster>
+    <monster>
+        <id>2</id>
+        <x>75.0</x>
+        <y>0.0</y>
+        <speed>0.7</speed>
+        <pattern>3</pattern>
+    </monster>
+    <monster>
+        <id>2</id>
+        <x>70.0</x>
+        <y>0.0</y>
+        <speed>0.7</speed>
+        <pattern>3</pattern>
+    </monster>
+    <monster>
+        <id>2</id>
+        <x>65.0</x>
+        <y>0.0</y>
+        <speed>0.7</speed>
+        <pattern>3</pattern>
+    </monster>
+</chunk>

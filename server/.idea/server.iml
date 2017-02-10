@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/Game/Simulation/Simulation.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Game/AGame.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Game/GameManager.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Game/RType.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Game/Collision/Collision.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Game/Collision/CollisionManager.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Monsters/EnemyShip.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Monsters/Taz.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Monsters/Brainfart.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Monsters/AMonster.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Core.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Bonus/ABonus.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Decoratives/ADecorative.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/parser/ParserError.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/parser/Chunk.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/parser/EntityFactory.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/parser/RTypeParser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/parser/RTypeParserHelper.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/parser/AParser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Patterns/APattern.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Patterns/SinusoidalePattern.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Patterns/LinearPattern.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Network/ServerNetwork.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Missiles/StandardMissile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Missiles/AMissile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Missiles/WaveMissile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Utils/ServerInterpreter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Utils/Convertor.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Utils/Timer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/ANonPlayable.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/AEntity.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/APlayable.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Entities/Player/Player.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/Monsters/Taz.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/Monsters/EnemyShip.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/Missiles/WaveMissile.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/Missiles/StandardMissile.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/Missiles/AMissile.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$MODULE_DIR$/../shared/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$MODULE_DIR$/../shared/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

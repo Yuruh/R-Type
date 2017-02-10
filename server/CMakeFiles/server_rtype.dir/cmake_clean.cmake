@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/server_rtype.dir/src/Game/AGame.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Game/Collision/CollisionManager.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Game/Collision/Collision.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Game/RType.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Game/GameManager.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Game/Simulation/Simulation.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Core.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Monsters/Taz.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Monsters/Brainfart.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Monsters/EnemyShip.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Monsters/AMonster.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Bonus/ABonus.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/parser/AParser.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/parser/Chunk.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/parser/ParserError.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/parser/RTypeParser.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/parser/RTypeParserHelper.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/parser/EntityFactory.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Network/ServerNetwork.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Decoratives/ADecorative.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/main/main.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Missiles/AMissile.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Missiles/WaveMissile.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Missiles/StandardMissile.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Utils/Timer.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Utils/ServerInterpreter.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Utils/Convertor.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Patterns/LinearPattern.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Patterns/SinusoidalePattern.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Patterns/APattern.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Entities/AEntity.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Entities/Player/Player.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Entities/APlayable.cpp.o"
+  "CMakeFiles/server_rtype.dir/src/Entities/ANonPlayable.cpp.o"
+  "server_rtype.pdb"
+  "server_rtype"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/server_rtype.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

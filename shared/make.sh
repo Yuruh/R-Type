@@ -1,0 +1,3 @@
+#./cleanCMake.sh
+cmake .;
+make;

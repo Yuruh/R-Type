@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/EventsSfml.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Core.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Network/ClientNetwork.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/Selectable.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/SoundPlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/TileSetSprites.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/WindowSfml.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/Scrolling.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/ASpritesHandler.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/TextureManager.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/SoundManager.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/AEntity.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/SfmlSpriteHandler.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/ObjectPool.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/GameScene.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/PlayerSprites.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/menu/SettingsScreen.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/menu/RoomScreen.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/menu/ChooseGameScreen.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/menu/TitleScreen.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/AScene.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/Button.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/display/DisplaySfml.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ClientInterpreter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake_modules/FindSFML.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/EventsSfml.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/IEventManager.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/Core.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/INetwork.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/IAnimated.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/DisplaySfml.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/ASpritesHandler.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/IDisplay.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/TileSetSprites.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/TextureManager.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/IScene.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/IWindow.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/Scrolling.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/Selectable.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/SoundPlayer.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/Button.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/IAnimatedSprites.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/AEntity.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/SfmlSpriteHandler.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/ObjectPool.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/menu/RoomScreen.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/menu/SettingsScreen.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/menu/TitleScreen.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/menu/ChooseGameScreen.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/GameScene.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/PlayerSprites.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/SoundManager.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/AScene.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/display/WindowSfml.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/Network/ClientNetwork.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/ClientInterpreter.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$MODULE_DIR$/../shared/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$MODULE_DIR$/../shared/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
